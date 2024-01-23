@@ -47,15 +47,15 @@ Hi! My name is Agnieszka Oyibo. I live in UK, I love sport and watching movies. 
 * [Satisfice Website Quality Assurance](https://www.satisfice.com/blog/archives/6060)
 * [The Mindset Change of An Agile Tester: Aligning with the Agile Manifesto](https://www.softwaretestinghelp.com/agile-tester-with-agile-manifesto/)
 
-## My Projects#
+## My Projects
 ## Test Plan for OpenCart
-* [Test Plan for OpenCart](https://1drv.ms/w/s!AmNsh0vQc7hagYQ-EdHoxGXgu3eoFg?e=gny5QL)
+* [Test Plan](https://1drv.ms/w/s!AmNsh0vQc7hagYQ-EdHoxGXgu3eoFg?e=gny5QL)
 ### Test Scenarios for OpenCart
 
-* [Test Scenarios for OpenCart](https://1drv.ms/x/s!AmNsh0vQc7hagYQoKobTQzutw95utw?e=aCMev0)
+* [Test Scenarios](https://1drv.ms/x/s!AmNsh0vQc7hagYQoKobTQzutw95utw?e=aCMev0)
 
 ### Test Cases for OpenCart
-* [Test Cases for OpenCart](https://1drv.ms/x/s!AmNsh0vQc7hagYQsw6TC7iT0sI0Ywg?e=gCcrX6)
+* [Test Cases](https://1drv.ms/x/s!AmNsh0vQc7hagYQsw6TC7iT0sI0Ywg?e=gCcrX6)
 
 ## Groups on Facebook
 * Girls Who Test
