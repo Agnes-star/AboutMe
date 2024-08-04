@@ -1,7 +1,7 @@
 # My Portfolio
 ## About me 
 
-Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I have started to take interest in software testing, strong expertise in Selenium and Python. Demonstrated proficiency through numerous testing projects, showcasing skills in automated testing, test script development, and bug identification. My goal is to develop testing knowlage and technical skills. On this site I would like to share all of my gained experience from personal studies and researches.
+Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I have started to take interest in software testing, earned ISTQB Foundation level Certificate, have strong expertise in Selenium and Python. Demonstrated proficiency through numerous testing projects, showcasing skills in automated testing, test script development. My goal is to develop testing knowlage and technical skills. On this site I would like to share all of my gained experience from personal studies and researches.
 
 ## Courses
 * The Complete 2024 Software Testing Bootcamp [softwaretestingbootcamp](https://www.udemy.com/course/testerbootcamp/)
