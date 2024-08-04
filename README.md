@@ -1,7 +1,7 @@
 # My Portfolio
 ## About me 
 
-Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I have started to take interest in software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share all of my gained experience from personal studies and researches.
+Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I have started to take interest in software testing, strong expertise in Selenium and Python. Demonstrated proficiency through numerous testing projects, showcasing skills in automated testing, test script development, and bug identification. My goal is to develop testing knowlage and technical skills. On this site I would like to share all of my gained experience from personal studies and researches.
 
 ## Courses
 * The Complete 2024 Software Testing Bootcamp [softwaretestingbootcamp](https://www.udemy.com/course/testerbootcamp/)
@@ -12,6 +12,8 @@ Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I hav
 * Postman: The Complete Guide - REST API Testing [restApipostman](https://www.udemy.com/course/postman-the-complete-guide/)
 * Build Websites from Scratch with HTML & CSS [htmlCSS](https://www.udemy.com/course/build-website-scratch/)
 * JavaScript Basics for Beginners [javascript](https://www.udemy.com/course/javascript-basics-for-beginners/?kw=javascript+for+be&src=sac)
+* Learn Selenium WebDriver Python Course for professional Selenium [Selenium,Python](https://www.udemy.com/course/selenium-webdriver-python-course/?couponCode=LEARNNOWPLANS)
+* Python for Beginners [python](https://www.udemy.com/course/python-for-absolute-beginners-u/?couponCode=LEARNNOWPLANS)
 
 ## Certificates
 **ISTQB** Certified Tester Foundation Level 22-CTFL-215504-06
@@ -28,6 +30,7 @@ Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I hav
 * Git / Github;
 * MySQL - relational database management system;
 * Postman - testing tool for REST API;
+* Selenium
 
 ## Tech skills
 * SDLC / STLC;
@@ -38,6 +41,7 @@ Hi! My name is Agnieszka Oyibo. I love sport and watching movies. Recently I hav
 * SQL;
 * API testing;
 * JavaScript Fundamentals;
+* Python Fundamentals
 
 ## Articles
 * [How to write good bug report](https://orangesoft.co/blog/how-to-write-a-bug-report)
